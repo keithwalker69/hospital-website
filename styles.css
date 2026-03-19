@@ -378,10 +378,6 @@ h4 {
   margin-bottom: 20px;
   transition: all 0.3s ease;
 }
-.service-card:hover .service-icon {
-  background: var(--brand);
-  color: #fff;
-}
 .service-card h4 {
   font-size: 1.25rem;
   margin-bottom: 12px;
